@@ -1,0 +1,14 @@
+img{
+    height: 200px;
+    width: 150px;
+    border-color: black;
+    border-radius: 20px;
+}
+
+p{
+    font-size: 17px;
+}
+
+#second-ul{
+    font-size: 17px;
+}
